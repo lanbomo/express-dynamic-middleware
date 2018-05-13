@@ -1,0 +1,36 @@
+{
+  "name": "express-dynamic-middleware",
+  "version": "0.1.0",
+  "description": "To add, remove dynamic middlewares in runtime for express.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lanbomo/express-dynamic-middleware.git"
+  },
+  "keywords": [
+    "express",
+    "middleware",
+    "dynamic",
+    "runtime"
+  ],
+  "author": "lanbomo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lanbomo/express-dynamic-middleware/issues"
+  },
+  "homepage": "https://github.com/lanbomo/express-dynamic-middleware#readme",
+  "devDependencies": {
+    "eslint": "^4.19.1",
+    "eslint-config-standard": "^11.0.0",
+    "eslint-plugin-import": "^2.11.0",
+    "eslint-plugin-node": "^6.0.1",
+    "eslint-plugin-promise": "^3.7.0",
+    "eslint-plugin-standard": "^3.1.0",
+    "express": "^4.16.3",
+    "mocha": "^5.1.1",
+    "nyc": "^11.7.3"
+  }
+}
