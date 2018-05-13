@@ -8,5 +8,9 @@ module.exports = {
             "asyncArrow": "always"
         }],
         "semi": ["error", "always"]
+    },
+    "env": {
+        "node": true,
+        "mocha": true
     }
 };
