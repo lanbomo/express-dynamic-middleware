@@ -1,6 +1,8 @@
 # express-dynamic-middleware
 To add, remove dynamic middleware in runtime for express.
 
+More detail information in [here](https://github.com/lanbomo/express-dynamic-middleware).
+
 ## Install
 
 ```bash
