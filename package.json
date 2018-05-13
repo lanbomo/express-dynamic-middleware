@@ -1,6 +1,6 @@
 {
   "name": "express-dynamic-middleware",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "To add, remove dynamic middlewares in runtime for express.",
   "main": "index.js",
   "scripts": {
